@@ -124,8 +124,8 @@ hr {
 	margin-left: -40px;
 	border-radius: 40px;
 	background-color: #F20000;
-	-webkit-animation: scaleout 1.0s infinite ease;
-	animation: scaleout 1.0s infinite ease;
+	-webkit-animation: scaleout .50s infinite ease;
+	animation: scaleout .50s infinite ease;
 }
 @-webkit-keyframes scaleout {
 	0% { -webkit-transform: scale(0.0) }
